@@ -4,7 +4,6 @@ import 'screens/login_screen.dart';
 void main() {
   runApp(SBIDemoApp());
 }
-
 class SBIDemoApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
